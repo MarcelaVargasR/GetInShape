@@ -3,17 +3,17 @@ export default function Features() {
     {
       title: "Personalized Workouts",
       text: "Short, effective workouts designed for your goals and lifestyle and Customized training plans based on your goals and level, Strength, cardio, mobility, and fat-loss sessions included.",
-      img: "/public/perzonalized-nutrition.webp",
+      img: "/perzonalized-nutrition.webp",
     },
     {
       title: "Flexible Nutrition",
       text: "A simple, balanced approach to eating—no restrictions, just real habits Simple recipes and portion suggestions you can follow daily,Balanced meal ideas for energy and healthy habits.",
-      img: "/public/flexible-nutrition.jpg",
+      img: "/flexible-nutrition.jpg",
     },
     {
       title: "Progress Tracking",
       text: "Track your workouts, meals, and victories to see your growth clearly, Visual charts that show strength, endurance, and consistency.Celebrate milestones as you get closer to your goals.",
-      img: "/public/saving-progress.jpeg",
+      img: "/saving-progress.jpeg",
     },
   ];
 

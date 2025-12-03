@@ -55,7 +55,7 @@ export default function Hero() {
         </div>
         <img
           className="w-90 max-w-md md:max-w-xl lg:max-w-2xl rounded-2xl object-cover shadow-2xl"
-          src="/public/getinshape-img.jpg"
+          src="/getinshape-img.jpg"
           alt="woman"
         />
       </div>

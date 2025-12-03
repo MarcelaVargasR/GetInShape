@@ -16,7 +16,7 @@ export default function Navbar({ scrolled }) {
           <div>
             <img
               className="w-auto h-8 sm:w-30 sm:h-14"
-              src="/public/getinshape-logo-1.png"
+              src="/getinshape-logo-1.png"
               alt="logo"
             />
           </div>
